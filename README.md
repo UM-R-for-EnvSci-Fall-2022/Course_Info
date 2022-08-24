@@ -1,4 +1,4 @@
-<img src="img/R_for_EnvSci_2022_version.png.png" alt="course logo" align="right" height="150pm"/> 
+<img src="img/R_for_EnvSci_2022_version.png" alt="course logo" align="right" height="150pm"/> 
 
 
 # University of Manitoba </br> R for Environmental Sciences </br> (ENVR 4000 / GEOG 7010) </br> Fall 2022
