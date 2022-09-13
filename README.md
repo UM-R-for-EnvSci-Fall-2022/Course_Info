@@ -3,6 +3,10 @@
 
 # University of Manitoba </br> R for Environmental Sciences </br> (ENVR 4000 / GEOG 7010) </br> Fall 2022
 
+## Past lecture slides and recordings
+
+1. Week 01: :bar_chart: [Slides](https://www.dropbox.com/s/z3l3w6jb8paxah0/Wk1_UM_R_for_EnvSci.pptx?dl=0) 
+
 ## Tentative course schedulle
 
 We will try to follow the below schedulle. Some things might take a bit longer and some might take a bit less, but we will cover all important parts listed below (and maybe more!)
