@@ -5,11 +5,13 @@
 
 ## Past lecture slides and recordings
 
-1. Week 01: :bar_chart: [Slides](https://www.dropbox.com/s/z3l3w6jb8paxah0/Wk1_UM_R_for_EnvSci.pptx?dl=0) 
+1. Week 01: :bar_chart: [Slides](https://www.dropbox.com/s/z3l3w6jb8paxah0/Wk1_UM_R_for_EnvSci.pptx?dl=0)
+2. Week 02: :bar_chart: [Slides](https://www.dropbox.com/s/6009f41gfpzavs0/Wk2_UM_R_for_EnvSci.pptx?dl=0)
 
 ## Assignments
 
 1. Week 01: [Link to accept the assignment](https://classroom.github.com/a/8y_DQDN6)
+2. Week 02: *No assignment*
 
 ## Tentative course schedulle
 
