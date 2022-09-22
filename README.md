@@ -6,7 +6,7 @@
 ## Past lecture slides and recordings
 
 1. Week 01: :bar_chart: [Slides](https://www.dropbox.com/s/z3l3w6jb8paxah0/Wk1_UM_R_for_EnvSci.pptx?dl=0)
-2. Week 02: [Recording](https://www.youtube.com/watch?v=NM4oab7EFMs) | :bar_chart: [Slides](https://www.dropbox.com/s/6009f41gfpzavs0/Wk2_UM_R_for_EnvSci.pptx?dl=0)
+2. Week 02:  :movie_camera: [Recording](https://www.youtube.com/watch?v=NM4oab7EFMs) | :bar_chart: [Slides](https://www.dropbox.com/s/6009f41gfpzavs0/Wk2_UM_R_for_EnvSci.pptx?dl=0)
 
 ## Assignments
 
