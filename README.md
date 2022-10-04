@@ -14,6 +14,8 @@
 
 1. Week 01: [Link to accept the assignment](https://classroom.github.com/a/8y_DQDN6)
 2. Week 02: *No assignment*
+3. Week 03: *No assignment*
+4. Week 04: [Link to accept the assignment](https://classroom.github.com/a/X8SJpUDO)
 
 ## Tentative course schedulle
 
