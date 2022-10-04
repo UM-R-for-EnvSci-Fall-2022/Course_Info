@@ -8,7 +8,7 @@
 1. Week 01: :bar_chart: [Slides](https://www.dropbox.com/s/z3l3w6jb8paxah0/Wk1_UM_R_for_EnvSci.pptx?dl=0)
 2. Week 02:  :movie_camera: [Recording](https://www.youtube.com/watch?v=NM4oab7EFMs) | :bar_chart: [Slides](https://www.dropbox.com/s/6009f41gfpzavs0/Wk2_UM_R_for_EnvSci.pptx?dl=0)
 3. Week 03:  :movie_camera: [Recording](https://www.youtube.com/watch?v=_MwoIIsQbtk) | :bar_chart: [Slides](https://www.dropbox.com/s/gqgoe7x5oibwufd/Wk3_UM_R_for_EnvSci.pptx?dl=0)
-4. Week 04:  :movie_camera: [Recording](https://youtu.be/SU8o8WwGPgk) | :bar_chart: [Slides](https://www.dropbox.com/s/5cs2l6nuy0ncpsj/Wk4_UM_R_for_EnvSci.pptx?dl=0)) | :computer: [Code](https://github.com/UM-R-for-EnvSci-Fall-2022/Wk04-Class_materials)
+4. Week 04:  :movie_camera: [Recording](https://youtu.be/SU8o8WwGPgk) | :bar_chart: [Slides](https://www.dropbox.com/s/5cs2l6nuy0ncpsj/Wk4_UM_R_for_EnvSci.pptx?dl=0) | :computer: [Code](https://github.com/UM-R-for-EnvSci-Fall-2022/Wk04-Class_materials)
 
 ## Assignments
 
