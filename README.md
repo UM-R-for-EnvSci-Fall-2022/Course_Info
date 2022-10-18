@@ -27,6 +27,7 @@
 3. Week 03: *No assignment*
 4. Week 04: *No assignment*
 5. Week 05: [Link to discussion](https://github.com/orgs/UM-R-for-EnvSci-Fall-2022/discussions/1)
+6. Week 06: [Link to discussion](https://github.com/orgs/UM-R-for-EnvSci-Fall-2022/discussions/3)
 
 ## Tentative course schedulle
 
