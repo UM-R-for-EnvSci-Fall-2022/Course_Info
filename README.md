@@ -11,6 +11,7 @@
 4. Week 04:  :movie_camera: [Recording](https://youtu.be/SU8o8WwGPgk) | :bar_chart: [Slides](https://www.dropbox.com/s/5cs2l6nuy0ncpsj/Wk4_UM_R_for_EnvSci.pptx?dl=0) | :computer: [Code](https://github.com/UM-R-for-EnvSci-Fall-2022/Wk04-Class_materials)
 5. Week 05:  :movie_camera: [Recording](https://youtu.be/QN-GrgyXjiM) | :bar_chart: [Slides](https://www.dropbox.com/s/ru9pfd1psbztlva/Wk5_UM_R_for_EnvSci.pptx?dl=0) | :computer: [Code](https://github.com/UM-R-for-EnvSci-Fall-2022/Wk05-Class_materials)
 6. Week 06:  :movie_camera: [Recording](https://youtu.be/0B3ZDA911HQ) | :bar_chart: [Slides](https://www.dropbox.com/s/xwvll4pp22e0vyp/Wk6_UM_R_for_EnvSci.pptx?dl=0) | :computer: [Code](https://github.com/UM-R-for-EnvSci-Fall-2022/Wk06-Class_materials)
+7. Week 07:  :computer: [Code](https://github.com/UM-R-for-EnvSci-Fall-2022/Wk07-Class_materials)
 
 ## Assignments
 
@@ -29,6 +30,7 @@
 4. Week 04: *No assignment*
 5. Week 05: [Link to discussion](https://github.com/orgs/UM-R-for-EnvSci-Fall-2022/discussions/1)
 6. Week 06: [Link to discussion](https://github.com/orgs/UM-R-for-EnvSci-Fall-2022/discussions/3)
+7. Week 07: [Link to discussion](https://github.com/orgs/UM-R-for-EnvSci-Fall-2022/discussions/5)
 
 ## Tentative course schedulle
 
