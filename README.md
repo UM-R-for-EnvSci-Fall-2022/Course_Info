@@ -15,7 +15,7 @@
 8. Week 08:  :movie_camera: [Recording](https://youtu.be/0mVdUD8kSgg) | :bar_chart: [Slides](https://www.dropbox.com/s/tzhedukbjehf8bb/Wk8_UM_R_for_EnvSci.pptx?dl=0) | :computer: [Code](https://github.com/UM-R-for-EnvSci-Fall-2022/Wk08-Class_materials)
 9. Week 09:  *No class - Reading week*
 10. Week 10:   :movie_camera: [Recording](https://youtu.be/q2kfYTMcvvU) | :bar_chart: [Slides](https://www.dropbox.com/s/3uw5d5e9zp4gst1/Wk8_UM_R_for_EnvSci.pptx?dl=0) | :computer: [Code](https://github.com/UM-R-for-EnvSci-Fall-2022/Wk10-Class_materials)
-11. Week 11:   :computer: [Code](https://github.com/UM-R-for-EnvSci-Fall-2022/Wk11-Class_materials)
+11. Week 11:   :movie_camera: [Recording](https://youtu.be/EGb9u9zGJGs) | :bar_chart: [Slides](https://www.dropbox.com/s/l5m02ndfmmp29nn/Wk11_UM_R_for_EnvSci.pptx?dl=0) |    :computer: [Code](https://github.com/UM-R-for-EnvSci-Fall-2022/Wk11-Class_materials)
 
 ## Assignments
 
@@ -29,7 +29,7 @@
 8. Week 08: [Link to accept the assignment](https://classroom.github.com/a/2U4mPKRS) | :notebook: [Solutions](https://github.com/UM-R-for-EnvSci-Fall-2022/wk08-hw-solutions)
 9. Week 09: *No assignment - Reading week*
 10. Week 10: **Tidytuesday assignment** - [Link to accept the assignment](https://classroom.github.com/a/Z9dTyhfN)
-11. Week 11: *Coming soon*
+11. Week 11: [Link to accept the assignment](https://classroom.github.com/a/0eLv51YZ)
 
 
 ## TidyTuesday Commentary Assignments
