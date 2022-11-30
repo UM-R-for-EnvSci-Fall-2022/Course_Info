@@ -30,7 +30,7 @@
 8. Week 08: [Link to accept the assignment](https://classroom.github.com/a/2U4mPKRS) | :notebook: [Solutions](https://github.com/UM-R-for-EnvSci-Fall-2022/wk08-hw-solutions)
 9. Week 09: *No assignment - Reading week*
 10. Week 10: **Tidytuesday assignment** - [Link to accept the assignment](https://classroom.github.com/a/Z9dTyhfN)
-11. Week 11: [Link to accept the assignment](https://classroom.github.com/a/0eLv51YZ)
+11. Week 11: [Link to accept the assignment](https://classroom.github.com/a/0eLv51YZ) | :notebook: [Solutions](https://github.com/UM-R-for-EnvSci-Fall-2022/wk11-hw-solutions)
 12. Week 12: *Coming soon, stay tunned*
 
 
