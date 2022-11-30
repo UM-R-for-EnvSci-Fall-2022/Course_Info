@@ -15,8 +15,8 @@
 8. Week 08:  :movie_camera: [Recording](https://youtu.be/0mVdUD8kSgg) | :bar_chart: [Slides](https://www.dropbox.com/s/tzhedukbjehf8bb/Wk8_UM_R_for_EnvSci.pptx?dl=0) | :computer: [Code](https://github.com/UM-R-for-EnvSci-Fall-2022/Wk08-Class_materials)
 9. Week 09:  *No class - Reading week*
 10. Week 10:   :movie_camera: [Recording](https://youtu.be/q2kfYTMcvvU) | :bar_chart: [Slides](https://www.dropbox.com/s/3uw5d5e9zp4gst1/Wk8_UM_R_for_EnvSci.pptx?dl=0) | :computer: [Code](https://github.com/UM-R-for-EnvSci-Fall-2022/Wk10-Class_materials)
-11. Week 11:   :movie_camera: [Recording](https://youtu.be/EGb9u9zGJGs) | :bar_chart: [Slides](https://www.dropbox.com/s/l5m02ndfmmp29nn/Wk11_UM_R_for_EnvSci.pptx?dl=0) |    :computer: [Code](https://github.com/UM-R-for-EnvSci-Fall-2022/Wk11-Class_materials)
-12. Week 12:   :computer: [Code](https://github.com/UM-R-for-EnvSci-Fall-2022/Wk12-Class_materials)
+11. Week 11:   :movie_camera: [Recording](https://youtu.be/EGb9u9zGJGs) | :bar_chart: [Slides](https://www.dropbox.com/s/l5m02ndfmmp29nn/Wk11_UM_R_for_EnvSci.pptx?dl=0) | :computer: [Code](https://github.com/UM-R-for-EnvSci-Fall-2022/Wk11-Class_materials)
+12. Week 12:   :movie_camera: [Recording](https://youtu.be/-79mW1bKO2Q) | :bar_chart: [Slides](https://www.dropbox.com/s/gxvnl4paf8piltr/Wk12_UM_R_for_EnvSci.pptx?dl=0) | :computer: [Code](https://github.com/UM-R-for-EnvSci-Fall-2022/Wk12-Class_materials)
 
 ## Assignments
 
