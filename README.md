@@ -18,6 +18,7 @@
 11. Week 11:   :movie_camera: [Recording](https://youtu.be/EGb9u9zGJGs) | :bar_chart: [Slides](https://www.dropbox.com/s/l5m02ndfmmp29nn/Wk11_UM_R_for_EnvSci.pptx?dl=0) | :computer: [Code](https://github.com/UM-R-for-EnvSci-Fall-2022/Wk11-Class_materials)
 12. Week 12:   :movie_camera: [Recording](https://youtu.be/-79mW1bKO2Q) | :bar_chart: [Slides](https://www.dropbox.com/s/gxvnl4paf8piltr/Wk12_UM_R_for_EnvSci.pptx?dl=0) | :computer: [Code](https://github.com/UM-R-for-EnvSci-Fall-2022/Wk12-Class_materials)
 13. Week 13:   :movie_camera: [Recording](https://youtu.be/DN-QVsRq4FY) | :bar_chart: [Slides](https://www.dropbox.com/s/clxkivyqbyfu3f9/Wk13_UM_R_for_EnvSci.pptx?dl=0) | :computer: [Code](https://github.com/UM-R-for-EnvSci-Fall-2022/Wk13-Class_materials)
+**Bonnus:** Last year's lecture on geospatial analysis with R   :movie_camera: [Recording](https://youtu.be/JvZI-xDCkMc?t=5816)
 
 ## Assignments
 
